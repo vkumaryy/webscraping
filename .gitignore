@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyc
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyz
+*.pyzw
+*.ipynb_checkpoints/
+
+# General
+.DS_Store
+venv/
